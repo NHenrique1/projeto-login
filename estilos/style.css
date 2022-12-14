@@ -107,7 +107,6 @@ div.campo > i {
     padding: 5px;
 }
 div.campo > input {
-    color: white;
     background-color:#8af9f6;
     font-size: 1em;
     width: calc(100% - 45px);
